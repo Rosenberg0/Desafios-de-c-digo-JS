@@ -1,2 +1,2 @@
-# Desafios-de-c-digo-JS
+# Desafios-de-codigo-JS
 7DaysOfCode - jS
